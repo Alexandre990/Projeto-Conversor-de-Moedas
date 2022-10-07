@@ -65,4 +65,4 @@ changeCurrency = () => {
 
 button.addEventListener('click', convertValues)
 
-select.addEventListener('change', changeCurrency)
+select.addEventListener('change', changeCurrency);

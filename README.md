@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <a href="https://docs.awesomeapi.com.br/api-de-moedas" target="_blank">API</a>
+- <input href="https://docs.awesomeapi.com.br/api-de-moedas">API>
 
 ## 💻 Projeto
 

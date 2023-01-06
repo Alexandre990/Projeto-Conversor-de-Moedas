@@ -10,7 +10,7 @@ Evento exclusivo promovido pelo Rodolfo Mori no DevClub, para ensino de tecnolog
   <a href="#-layout">Layout</a>
 </p>
 
-<img src="" >
+<img src="https://github.com/Alexandre990/Conversor-de-Moedas/blob/master/assets/Notebook.png?raw=true" >
 
 ## 🚀 Tecnologias
 
